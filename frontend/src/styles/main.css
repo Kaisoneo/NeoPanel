@@ -1,0 +1,16 @@
+/* Add your existing CSS styles here */
+/* This file should contain all the styles from your HTML files */
+
+/* Example of additional styles */
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.error-message {
+    color: var(--error);
+    text-align: center;
+    padding: 20px;
+}
